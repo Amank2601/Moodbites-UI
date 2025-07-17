@@ -27,16 +27,6 @@ This is an early-stage UI prototype. Backend integration, mood detection, and re
 
 ---
 
-## 📷 Preview
-
-### 🖥️ Desktop View
-![Desktop Preview](images/Moodbites-desktop-image.png)
-
-### 📱 Mobile View
-![Mobile Preview](images/Moodbites%20UI.png)
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
