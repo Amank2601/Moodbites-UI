@@ -27,7 +27,10 @@ This is an early-stage UI prototype. Backend integration, mood detection, and re
 
 ---
 
-## 🚀 Getting Started
+## Live Preview
+
+This project is live at:  
+👉 [Live Preview](https://amank2601.github.io/Moodbites-UI/)
 
 ### 1. Clone the repository
 ```bash
